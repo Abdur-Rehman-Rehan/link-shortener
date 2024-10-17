@@ -1,5 +1,8 @@
 
 # Link Shortener Application
+## Video Demo
+[Youtube video](https://youtu.be/flIA8Lhs9bk)
+
 ## Overview  
 This application offers a straightforward way to shorten long URLs, making them more manageable and shareable. It consists of a Node.js server and a React client.
 ## Project Structure
@@ -21,7 +24,7 @@ This application offers a straightforward way to shorten long URLs, making them 
 ## Setup
 Clone the repository:
 ```bash
-git clone https://github.com/BilalAtique/link-shortener.git
+git clone https://github.com/Abdur-Rehman-Rehan/link-shortener.git
 ``````
 
 Install dependencies:
